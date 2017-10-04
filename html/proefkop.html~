@@ -1,0 +1,150 @@
+	<html>
+	<head>
+	
+	
+	<title>Hooiservice van der Zwaluw | Hooi en stro, kleine en grote balen</title>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta http-equiv="Content-Type" content="text/html" />
+   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Walter+Turncoat">
+   <link href='http://fonts.googleapis.com/css?family=Advent+Pro:600' rel='stylesheet' type='text/css'>
+   <link href='http://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	<script  src="js/slag.js" type="text/javascript" ></script>
+	
+	</script>
+	<link href="fotoos/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+	<link href="../css/hooiservice.css" type="text/css" rel="stylesheet" />
+	
+	
+	
+	</head>
+	<body data-spy="scroll" data-target=".navbar" data-offset="50">
+	<div class="center">
+		<div class="container">
+  			<div class="row">
+    			<div class="col-sm-3">
+      			<img src="../fotoos/index.png"  class="img-responsive margin" style="width:100%" alt="hooiservice-logo.png">
+    			</div>
+    			<div class="col-sm-2">
+		    		<!--alleen om een space kolom te maken-->
+    			</div>
+    
+    			<div class="col-sm-7">
+      			<nav class="navbar navbar-default">
+  						<div class="container-fluid">
+    					<!--<div class="navbar-header">
+      					<a class="navbar-brand" href="#">WebSiteName</a>
+    					</div> -->
+    						<ul class="nav navbar-nav">
+      						<li class="active"><a href="#">Home</a></li>
+      						<!-- <li><a href="#">Home</a></li> -->
+      						<li><a href="#">Hooi</a></li>
+      						<li><a href="#">Stro</a></li>
+      						<li><a href="#">Vlas</a></li>
+      						<li><a href="#">Bezorgen</a></li>
+      						<li><a href="#">Nieuws</a></li>
+      						<li><a href="#">Contact</a></li>
+    						</ul>
+  						</div>
+					</nav>
+		
+    			</div>
+  			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12" id="afstand"> </div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<h1>Home</h1>
+					<h2>Van der Zwaluw Hooi en Stro</h2>
+					<p>U bent bij ons verzekerd van constante en exclusieve kwaliteit. U belt, wij kunnen leveren.
+					</p>
+					<p><<img alt="trekker-laadt-hooibaal" src="../fotoos/039.jpg" height="419" width="325"></p>
+				</div>
+				<div class="col-sm-4">
+					<h1> .</h1>
+					<h2>Hooi te koop</h2>
+						<p>Goede kwaliteit hooi voor een betaalbare prijs. Wij leveren grote balen van 300-500 kilo, kleine balen van 15-17 kilo en wikkelbalen hooi. In overleg brengen we het ook bij u thuis >> hooi</p>
+						<h2>Kruidenhooi</h2>
+						<p>Kruidenhooi voor paarden is een zeer smakelijk natuurproduct waarin vele gedroogde kruiden zijn opgenomen. Hierdoor is de voedingswaarde van dit type hooi zeer hoog. >> kruidenhooi
+						</p>
+						<h2>Stro en Vlas</h2>
+						<p>Van der Zwaluw Hooi en Stro levert eersteklas stro en vlas. Ons stro komt van eigen land en is leverbaar in diverse groottes. >> stro</p>
+
+						<p>Vlas is een 100 % plantaardig, gezond en goedkoop strooisel.  >>vlas</p>
+						<h2>Levering</h2>
+						<p>In overleg bezorgen wij ook bij u thuis. Neem contact met ons op voor meer informatie.</p>
+				</div>
+				<!-- <div class="col-sm-1"></div> -->
+				<div class="col-sm-4">
+					<h3>Producten</h3>
+					<ul>
+						<li>Hooi</li>
+							<ul>
+								<li>Hooibalen te koop</li>
+								<li>Hooi in balen</li>
+								<li>Hooi in wikkelbalen</li>
+								<li>Kruidenhooi</li>
+							</ul>
+						<li>Stro</li>
+						<li>Vlas</li>
+					</ul>
+					<h3>Meer weten over ons hooi, </h3>
+					<h3>stro en vlas?</h3>
+					<p>Wilt u meer informatie over stro  </p>
+					<p>of een prijsopgave?</p>
+					<button type="button" class="btn btn-primary btn-lg btn-warning">E-mail ons</button>
+					<h3>Of bel direct</h3>	
+					<p>06-23699931 / 0487-594844</p>			
+				</div>
+			</div>
+		</div><! container -->
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12" id="afstand2"> </div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<p class="fotorij"><img src="../fotoos/trekkerMetAanhangwagenVol-klein.jpg" alt="trekker-met-volle-aanhangwagen" height="248" width="331"></p>
+					<p class="fotorij"><img src="../fotoos/trekkerAanHetDuinen-klein.jpg" alt="trekker-aan-het-duinen" height="248" width="331"></p>
+				</div>
+			</div>
+		</div> <!--container-->
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12" id="afstand3"> </div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-3"> Kolom1aaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
+		
+
+				<div class="col-sm-3"> Kolom2bbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbb</div>
+		
+		
+				<div class="col-sm-3"> Kolom3cccccccccccccccccccccccccc ccccccccccccccccccccccc</div>
+
+
+				<div class="col-sm-3"> Kolom4ddddddddddddddddddddd dddddddddddddddddddddddddddddd</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12" id="onderbalk"> 
+					<p><img src="../fotoos/hooiservicenlwit1.png" alt="email-Adres-Logo" id="footer-logo"></p>
+				</div>
+			</div>
+		</div>
+	</div> 
+	</body>
+	</html>
