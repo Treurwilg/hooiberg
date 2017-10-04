@@ -1,0 +1,88 @@
+/*.container-fluid {
+	position: absolute;
+	right: 0px;
+}*/
+
+body {
+	/*background-color: rgba(0,0,0, 0.5) ;*/
+	background-image: url("../fotoos/x01.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	/*-webkit-filter: blur(5px);*/
+	background-size: cover;
+	line-height: 1;
+	/*font-size: 62.5%; /* BASISFORMAAT (62,5% = 10PX) */
+	}
+	
+	body {
+		font: 12px/20px "Tahoma", Arial, Helvetica, sans-serif;
+		font-size: 14px !important;
+		color: #30241b; 
+	}
+	
+	.center {
+		position: relative;
+		margin-left: auto;
+		margin-right: auto;
+		max-width: 1080px;
+		opacity: 1.0;	
+		border-style: solid;
+		/*position: */
+      background: rgba(255,255,255,1);
+	}
+	
+	.col-sm-8 {
+		/* position: relative;*/
+    	border: 2px solid black;
+	}
+	
+	#afstand {
+		height: 80px;	
+	}
+	
+	#afstand2 {
+		height: 40px;	
+	}
+	
+	#afstand3 {
+		height: 40px;	
+	}
+	
+	h1 {
+		font-family: 'Walter Turncoat', 'Arial', cursive !important;
+		font-weight: normal;	
+		font-size: 24px;
+	}
+	
+	h2 {
+		font-family: 'Walter Turncoat', 'Arial', cursive !important;
+		font-weight: normal;	
+		font-size: 19px;
+	}
+	
+	h3 {
+		font-family: 'Walter Turncoat', 'Arial', cursive !important;
+		font-weight: normal;	
+		font-size: 15px;
+	}
+	
+	
+	.navbar {
+		width: 80%;	
+	}
+	
+	.fotorij {
+		display: inline;	
+		padding: 10px;
+	}
+	
+	#onderbalk {
+		background-color: darkgreen;
+	}
+	
+	#footer-logo {
+		height: 33px;
+		width: 200px;
+	}
+	
