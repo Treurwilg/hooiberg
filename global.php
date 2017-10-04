@@ -1,5 +1,5 @@
 <?php
-// global.php
+// global.php voor slag-alphen
 class Page {
 
 	
