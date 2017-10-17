@@ -27,17 +27,21 @@ body {
 		margin-right: auto;
 		max-width: 1176px;
 		opacity: 1.0;	
-		border-style: solid;
+		/*border-style: solid; */
 		/*position: */
       background: rgba(255,255,255,1);
 	}
 	
-	.col-sm-8 {
-		/* position: relative;*/
+	/* .col-sm-8 {
+		/* position: relative;
     	border: 2px solid black;
-	}
+	} */
 	
-	#afstand {
+	#afstand0 {
+		height: 40px;	
+	}	
+	
+	#afstand1 {
 		height: 80px;	
 	}
 	
@@ -46,7 +50,11 @@ body {
 	}
 	
 	#afstand3 {
-		height: 40px;	
+		height: 30px;	
+	}
+	
+	#afstand4 {
+		height: 17px;	
 	}
 	
 	h1 {
